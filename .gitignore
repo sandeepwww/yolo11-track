@@ -13,8 +13,10 @@ ENV/
 
 # Generated output files
 tracks.csv
+tracks_ground.csv
 runs/
 *.mp4
+*.png
 
 # IDE
 .vscode/
